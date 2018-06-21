@@ -1,0 +1,23 @@
+.wrap{
+    width: 510px;
+}
+.box{
+    width: 500px;
+    height: 300px;
+    border: 5px grey solid;
+    
+}
+.allButton{
+    margin-top: 5px;
+    text-align: right;
+}
+.circle{
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    width: 20px;
+	height: 20px;
+
+    position: relative;
+    margin-top: 20px;
+}
